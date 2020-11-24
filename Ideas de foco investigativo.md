@@ -2,7 +2,6 @@
 
 ##	Hoteles:
 
-* Movimiento de 
 * ¿cómo generar una tarifa dinámica para competir con airbnb?
 
 ## Inversionistas
